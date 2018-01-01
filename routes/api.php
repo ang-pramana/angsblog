@@ -3,7 +3,7 @@
 use Illuminate\Http\Request;
 
 /*
-|add custom log for git purpose. mboh lah
+|add custom log for git purpose. mboh lah, makan ayam logic
 |--------------------------------------------------------------------------
 | API Routes
 |--------------------------------------------------------------------------
